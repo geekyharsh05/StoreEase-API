@@ -4,7 +4,7 @@ The StoreEase API is a RESTful API for managing products in an online store. It 
 
 ## 🚀 Getting Started
 
-## Requirements
+## :bulb: Requirements
 
 Before you begin, ensure you have met the following requirements:
 
@@ -14,11 +14,19 @@ Before you begin, ensure you have met the following requirements:
 
 ## ⬇️ Installation
 
+- Clone the repository
+- Install the dependencies
+- Fill the necessary environment variables (see .env.example)
+- Run the server
+
 ```bash
-    cd 
+    git clone git@github.com:geekyharsh05/StoreEase-API.git
+    cd StoreEase-API
+    npm install
+    npm run dev
 ```
 
-## Configuration
+## 📝 Configuration
 
 You can configure the API by setting environment variables in the `.env` file. Be sure to provide the necessary database connection URI, port.
 
