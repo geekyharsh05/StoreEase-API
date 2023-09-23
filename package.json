@@ -1,0 +1,22 @@
+{
+  "name": "store-api",
+  "version": "1.0.0",
+  "description": "This is a Store API built using express and mongoDB",
+  "main": "server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "type": "module",
+  "author": "Harsh Vardhan Pandey",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-async-errors": "^3.1.1",
+    "mongoose": "^7.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
