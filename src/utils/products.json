@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Luxury Sofa",
+    "price": 499,
+    "company": "Furniture Emporium",
+    "rating": 4.8
+  },
+  {
+    "name": "Elegant Dining Table",
+    "price": 349,
+    "company": "Home Innovations",
+    "rating": 4.7
+  },
+  {
+    "name": "Cozy Armchair",
+    "price": 199,
+    "company": "Comfort Creations",
+    "rating": 4.5
+  },
+  {
+    "name": "Modern Coffee Table",
+    "price": 129,
+    "company": "Urban Trends",
+    "rating": 4.6
+  },
+  {
+    "name": "Retro Bookshelf",
+    "price": 249,
+    "company": "Vintage Furnishings",
+    "rating": 4.4
+  },
+  {
+    "name": "Executive Desk",
+    "price": 599,
+    "company": "Office Excellence",
+    "rating": 4.9
+  },
+  {
+    "name": "Chic Nightstand",
+    "price": 79,
+    "company": "Trendy Living",
+    "rating": 4.7
+  },
+  {
+    "name": "Designer Lounge Chair",
+    "price": 299,
+    "company": "Luxury Living Co.",
+    "rating": 4.8
+  },
+  {
+    "name": "Contemporary Side Table",
+    "price": 159,
+    "company": "Modern Interiors",
+    "rating": 4.6
+  },
+  {
+    "name": "Sleek Office Chair",
+    "price": 189,
+    "company": "Workspace Solutions",
+    "rating": 4.5
+  }
+]
